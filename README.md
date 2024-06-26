@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with diverse skill sets
 ## Get in Touch
 
 - **Email**: DWMBarber@protonmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dwbarber/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dwbarber/)
 
 ## Contributions
 
