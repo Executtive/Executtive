@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Executtive 
 
 Welcome to my GitHub profile! I'm a passionate developer with diverse skill sets in coding, graphic design, and cybersecurity. Here, you'll find a collection of my projects and collaborations.
 
