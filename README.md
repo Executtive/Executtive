@@ -35,7 +35,7 @@ I'm a developer with nearly a decade of hands-on digital experience, currently f
 
 **Papyrus** - Research companion. Feed it a research topic, it maps out the key papers, who cites who, and where the field currently disagrees
 
-**Canary** - Cyber-sec platform for built project. Holds a database of fake credentials, letting you know if they're breached/accessed.
+**Canary** - Cyber-sec platform for built projects. Holds a database of fake credentials, letting you know if they're breached/accessed. Automatic Canary tokening.
 
 > Always more projects in the works. Stay tuned.
 
