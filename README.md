@@ -1,4 +1,4 @@
-# Hey, I'm Mack 👋
+# Hello, I'm Mack 👋
 
 Full-stack developer and student based in **Mobile, Alabama** building personal projects.
 
