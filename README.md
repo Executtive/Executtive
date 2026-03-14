@@ -28,12 +28,16 @@ I'm a developer with nearly a decade of hands-on digital experience, currently f
 ## 🛠 Current Projects
 
 **Glance** - AI Powered app for quick, non-bias conforming media. Designed for conversational awareness.
+
 **Pact** - Pursuing shared goals with peers. Accountability tracker with psychology based metrics.
+
 **Baseline** - Library of free information for maintain practical, important skills in the digital age.
+
 **Papyrus** - Research companion. Feed it a research topic, it maps out the key papers, who cites who, and where the field currently disagrees
+
 **Canary** - Cyber-sec platform for built project. Holds a database of fake credentials, letting you know if they're breached/accessed.
 
-> More projects in the works — check back soon.
+> Always more projects in the works. Stay tuned.
 
 ---
 
