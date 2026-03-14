@@ -1,41 +1,50 @@
-# Executtive 
+# Hey, I'm Mack 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with diverse skill sets in coding, graphic design, and cybersecurity. Here, you'll find a collection of my projects and collaborations.
-
-## About Me
-
-- 📍 Based in Mobile, Alabama, USA
-- 5+ years in professional Digital work.
-- 🔧 Skilled in various practices:
-  - Coding (Node.js, JavaScript, Python, etc.)
-  - Graphic Design
-  - Cybersecurity
-
-
-## Current Projects
-
-- 🚀 **GreenShare**: Open platform for the buying/exchange of local produce/fruit.
-- 🤖 **Personal Discord Bot Development**
-
-## Skills
-
-- **Languages**: JavaScript, Node.js, Python, CSS, and some HTML
-- **Tools**: VS Code, Git, Photoshop, Illustrator
-- **Frameworks**: Express, React, Next.js
-
-## Get in Touch
-
-- **Email**: DWMBarber@protonmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dwbarber/)
-
-## Contributions
-
-I'm always open to collaborating on interesting projects and contributing to the community. Feel free to reach out with any questions/comments/concerns.
+Full-stack developer and student based in **Mobile, Alabama** building personal projects.
 
 ---
 
-Have a blessed day!
+## About Me
 
+I'm a developer with nearly a decade of hands-on digital experience, currently focused on honing my full-stack skills through personal projects. I care about writing readable code, designing intuitive interfaces, and shipping things that actually work.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Currently studying and building at the University of South Alabama. Go Jags!
+- 💻 Getting comfortable across the full stack with modern tool assistance.
+- 🔒 Background in cybersecurity and a love for understanding how systems break.
+- 🎨 I handle my own UI/UX
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`JavaScript` `Node.js` `Python` `CSS` `HTML`
+
+**Frameworks & Libraries**
+`React` `Next.js` `Express`
+
+---
+
+## 🛠 Current Projects
+
+**Glance** - AI Powered app for quick, non-bias conforming media. Designed for conversational awareness.
+**Pact** - Pursuing shared goals with peers. Accountability tracker with psychology based metrics.
+**Baseline** - Library of free information for maintain practical, important skills in the digital age.
+**Papyrus** - Research companion. Feed it a research topic, it maps out the key papers, who cites who, and where the field currently disagrees
+**Canary** - Cyber-sec platform for built project. Holds a database of fake credentials, letting you know if they're breached/accessed.
+
+> More projects in the works — check back soon.
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to connecting with other developers, collaborators, or anyone curious about what I'm building.
+
+- **Email**: DWMBarber@protonmail.com
+- **LinkedIn**: [dwbarber](https://www.linkedin.com/in/dwbarber/)
+- **My Portfolio Site**: 
+
+---
+
+*Have a blessed day.*
